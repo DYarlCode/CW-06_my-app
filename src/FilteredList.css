@@ -1,0 +1,25 @@
+.filter-list {
+    width: 300px;
+    padding: 10px;
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    border: 4px, black;
+    border-radius: 10px;
+}
+
+.filter-list h1 {
+    font-weight: bold;
+    color: lightcoral;
+    text-align:center;
+    margin-bottom: 20px;
+}
+
+.filter-list input[type="text"] {
+    width: auto;
+    padding: 10px;
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    border-radius: 6px;
+}
